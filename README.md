@@ -1,3 +1,7 @@
+> Warning!!: The name of the package has been changed to `postgrejs`(https://www.npmjs.com/package/postgrejs)
+> and repository has been moved to (https://github.com/panates/postgrejs)
+> Please consider to update dependencies in your package.json
+
 ## postgresql-client
   
 [![NPM Version][npm-image]][npm-url]

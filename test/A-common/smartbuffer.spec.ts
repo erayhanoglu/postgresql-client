@@ -1,4 +1,4 @@
-import { SmartBuffer } from '../../src/protocol/smart-buffer.js';
+import { SmartBuffer } from 'postgresql-client';
 
 describe('SmartBuffer', () => {
   it('should automatically grow', () => {
